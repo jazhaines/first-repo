@@ -1,0 +1,43 @@
+html {
+	background-color: #FDDDF5;
+}
+
+h1 {
+	color: #008CBA;
+	font-size: 40px;
+	font-family: "Open-Sans", sans-serif;
+	text-align: center;	
+}
+
+button {
+  background-color: #555555;
+  border: none;
+  color: white;
+  padding: 0px;
+  border-radius: 8px;
+  border: 2px solid #008CBA;
+  transition-duration: 0.4s;
+  width: 50%;
+  text-align: center;
+  text-decoration: none;
+  margin: auto;
+  font-size: 24px;
+}
+
+button:hover {
+  background-color: #008CBA;
+  color: white;
+}
+
+div{
+	font-size: 29px;
+	color: white;
+	font-family: "Open-Sans", sans-serif;
+	font-weight: bold;
+	text-align: center;
+	background-color: #008CBA; 
+	height: 100px;
+	width: 400px;
+	margin: auto;
+	margin-top: 100px;
+}
